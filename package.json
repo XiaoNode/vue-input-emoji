@@ -9,8 +9,8 @@
     "emoji edit"
   ],
   "author": "Jone <jone.xue@qq.com>",
-  "repository": "https://github.com/XiaoNode/vue-select-added",
-  "homepage": "https://github.com/XiaoNode/vue-select-added",
+  "repository": "https://github.com/XiaoNode/vue-input-emoji",
+  "homepage": "https://github.com/XiaoNode/vue-input-emoji",
   "license": "MIT",
   "main": "./dist/vueInputEmoji.common.js",
   "unpkg": "./dist/vueInputEmoji.umd.min.js",
