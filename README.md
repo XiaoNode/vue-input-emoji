@@ -6,6 +6,10 @@
   <img src="emojitest.gif" width="750" alt="test"/>
 </p>
 
+<h4>
+tips:It supports all chrome Emoji, but does not support picture Emoji. In lower version operating systems such as Windows 7 and lower version chrome, Emoji displays black and white
+</h4>
+
 ## Installation
 
 #### NPM / Yarn
