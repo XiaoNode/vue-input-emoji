@@ -35,3 +35,5 @@ components: {
 ```js
 <InputEmoji v-model="defaultValue" :emojiData="emojiData" />
 ```
+You can use the custom Emoji page data 'emojidata' or import the Emoji JSON file like example
+
