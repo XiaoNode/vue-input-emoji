@@ -1,4 +1,4 @@
-# vue-select-added
+# vue-input-emoji
 
 > A Vue.js 2.0 input emoji component
 
