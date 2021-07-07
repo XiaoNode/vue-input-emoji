@@ -123,8 +123,6 @@ export default {
   width: 10%;
   font-size: 20px;
   text-align: center;
-}
-.emotionItem {
   text-decoration: none;
 }
 .emotionItem:link {
@@ -135,6 +133,7 @@ export default {
 }
 .emotionItem:hover {
   text-decoration: none;
+  background: rgb(231, 231, 235);
 }
 .emotionItem:active {
   text-decoration: none;
